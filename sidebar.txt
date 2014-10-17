@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gvj:home|Door43 (gvj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gvj|d43-gvj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gvj/archive/master.zip|d43-gvj.zip]]
+
+**Recent Changes**
+{{changes>ns = gvj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gvj|Ethnologue data]]
+
